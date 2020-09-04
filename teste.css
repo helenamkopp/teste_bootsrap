@@ -3,7 +3,9 @@
 }
 
 body {
-  background-color: blanchedalmond;
+  background-image: 
+    linear-gradient(to bottom, rgb(9, 9, 36) 8%, rgba(236, 219, 219, 0.6) 60%, rgba(255, 255, 255, 0.8) 100%);
+  color: white;
 }
 
 section .section-content{
